@@ -1,5 +1,5 @@
 # seattlehousingdashboard
-Seattle Washington has long held a special place in my heart. And when market conditions turn for the worst it has a knock on effect for realestate, and more specifically home loans. This project looks at the housing market in Seattle in its distressed housing market to improve  market information and by extension market clearing forces. 
+When market conditions turn for the worst it has a knock on effect for real estate, and more specifically home loans. This project looks at Seattle Washington distressed home loan market with the aim to provide up to date information, there by improving market clearing. 
 
 ## Topic
 Build a simple analitics tool for real estate investors for the purpose of improving market based real-time information. This project uses the King County Records online resource to collect and format data from a set time period. The resulting dashboard will display map and list details of each property along with investor metrics and overall market view.
