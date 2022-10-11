@@ -9,7 +9,7 @@ Build a simple analitics tool for real estate investors for the purpose of impro
 1. Extract, Transform, and Load
     - Pull list of distressed properties from King County Records
     - Pull property details from related resources
-    - Pull Home Mortgage Database dataset
+    - Pull National Mortgage Database (NMDB) dataset
     - Sort and transform data in Pandas
     - import dataframes into SQL Postgres Database
 2. Create subsets in Azure Data Studio
